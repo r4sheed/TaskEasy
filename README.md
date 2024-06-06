@@ -22,7 +22,7 @@ A simple and effective task management app.
     ```
 3. Install the required dependencies:
     ```sh
-    pip install -r requirements.txt
+    pip install PyQt5==5.15.4 cryptography==35.0.0
     ```
 
 ## Usage
